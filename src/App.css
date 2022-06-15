@@ -7,6 +7,12 @@ body {
   font-weight: bold;
 }
 
+.text-gradient {
+  background: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @media (max-width: 768px) {
   #ul-list {
     display: none;
