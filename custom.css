@@ -1,0 +1,17 @@
+/*
+ - HypeStyle CSS v0.1.9 (https://hypestyle.netlify.app)
+ - Copyright 2022 Hypll Development. / HypeStyle LABS
+ - Licensed under MIT (https://github.com/hypestyle/hypestyle/blob/master/LICENSE)
+*/
+.text-body { color: #131421 !important; }
+.bg-body { background-color: #131421 !important; }
+.text-navbar { color: #1e2145 !important; }
+.bg-navbar { background-color: #1e2145 !important; }
+.text-navOpen { color: #282d62 !important; }
+.bg-navOpen { background-color: #282d62 !important; }
+.m-auto { margin: 0 auto !important; }
+
+
+
+
+
