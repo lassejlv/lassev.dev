@@ -6,9 +6,7 @@ function Navbar() {
   return (
     <div>
       <nav class="navbar h-14 bs-md bg-navbar">
-        <h1 class="site-title text-white" onClick={window.location.reload()}>
-          Lasse Vestergaard
-        </h1>
+        <h1 class="site-title text-white">Lasse Vestergaard</h1>
         <i
           class="fa-solid fa-bars display-none text-white text-hover-gray-light-4 tr-sm font-lg c-pointer"
           id="hamburger-icon"
